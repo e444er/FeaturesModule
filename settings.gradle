@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "FeaturesModule"
 include ':app'
 include ':core'
+include ':remote'
+include ':data'
